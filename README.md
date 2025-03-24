@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @theocastro
-- 👀 I’m interested in React Native
-- 🌱 I’m currently learning React Native, React, NodeJS
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in Cybersecurity
+- 🌱 I’m currently learning firewall, malware analisis, MITRE ATT&CK and others
+- 💞️ I’m looking to collaborate on cyber projects
 - 📫 You can reach me on WhatsApp +55(21)99858-6701
 
 <!---
